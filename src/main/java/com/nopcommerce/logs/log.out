@@ -1,0 +1,19 @@
+2023-12-22 23:12:186 INFO  HomePage :35 - Clicking on login link :
+2023-12-22 23:12:570 INFO  LoginPage :63 - Getting text from : [[ChromeDriver: chrome on mac (a51b67f444b540028a72f36e8f439a59)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-22 23:12:256 INFO  HomePage :35 - Clicking on login link :
+2023-12-22 23:12:257 INFO  LoginPage :73 - enter Email ID
+2023-12-22 23:12:927 INFO  LoginPage :78 - enter Password
+2023-12-22 23:12:629 INFO  HomePage :35 - Clicking on login link :
+2023-12-22 23:12:561 INFO  LoginPage :73 - enter Email ID
+2023-12-22 23:12:331 INFO  LoginPage :78 - enter Password
+2023-12-22 23:12:903 INFO  HomePage :35 - Clicking on login link :
+2023-12-22 23:12:618 INFO  LoginPage :73 - enter Email ID
+2023-12-22 23:12:201 INFO  LoginPage :78 - enter Password
+2023-12-22 23:12:288 INFO  HomePage :35 - Clicking on login link :
+2023-12-22 23:12:472 INFO  LoginPage :63 - Getting text from : [[ChromeDriver: chrome on mac (f7746af95636c61bb7306829811f5608)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-12-22 23:12:628 INFO  HomePage :35 - Clicking on login link :
+2023-12-22 23:12:775 INFO  LoginPage :73 - enter Email ID
+2023-12-22 23:12:541 INFO  LoginPage :78 - enter Password
+2023-12-22 23:12:686 INFO  HomePage :35 - Clicking on login link :
+2023-12-22 23:12:928 INFO  LoginPage :73 - enter Email ID
+2023-12-22 23:12:90 INFO  LoginPage :78 - enter Password

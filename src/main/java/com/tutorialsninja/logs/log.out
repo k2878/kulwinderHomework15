@@ -1,0 +1,54 @@
+2023-12-21 20:12:53 INFO  HomePage :35 - Clicking on login link :
+2023-12-21 20:12:776 INFO  LoginPage :73 - enter Email ID
+2023-12-21 21:12:972 INFO  HomePage :35 - Clicking on login link :
+2023-12-21 21:12:782 INFO  LoginPage :73 - enter Email ID
+2023-12-21 21:12:154 INFO  LoginPage :78 - enter Password
+2023-12-21 21:12:865 INFO  HomePage :35 - Clicking on login link :
+2023-12-21 21:12:572 INFO  LoginPage :73 - enter Email ID
+2023-12-21 21:12:878 INFO  LoginPage :84 - enter Password
+2023-12-21 21:12:820 INFO  HomePage :35 - Clicking on login link :
+2023-12-21 21:12:550 INFO  LoginPage :73 - enter Email ID
+2023-12-21 21:12:832 INFO  LoginPage :84 - enter Password
+2023-12-21 21:12:931 INFO  HomePage :35 - Clicking on login link :
+2023-12-21 21:12:90 INFO  LoginPage :73 - enter Email ID
+2023-12-21 21:12:229 ERROR LoginPage :77 - email field not found
+2023-12-23 03:12:543 INFO  HomePage :54 - Mouse hover on “Laptops & Notebooks” and click [[ChromeDriver: chrome on mac (26f30249a2d2ff2139a9ee46c12b4398)] -> xpath: //ul[@class='nav navbar-nav']/li[2]/a]
+2023-12-23 03:12:643 INFO  HomePage :69 - Click on Show All LaptopAndNotebooks [[ChromeDriver: chrome on mac (26f30249a2d2ff2139a9ee46c12b4398)] -> link text: Show AllLaptops & Notebooks]
+2023-12-23 03:12:433 INFO  HomePage :59 -  Mouse hover on “Components” and click [[ChromeDriver: chrome on mac (b00b2ead0aff95c0ca76198ba8032fa5)] -> xpath: //ul[@class='nav navbar-nav']/li[3]/a]
+2023-12-23 03:12:128 INFO  HomePage :74 - Click on Show All ShowAllComponents [[ChromeDriver: chrome on mac (b00b2ead0aff95c0ca76198ba8032fa5)] -> link text: Show AllComponents]
+2023-12-23 03:12:396 INFO  HomePage :49 - Mouse hover on “Desktops” and click [[ChromeDriver: chrome on mac (dd5b9d489122115a873d1baccb5e0279)] -> xpath: //ul[@class='nav navbar-nav']/li[1]/a]
+2023-12-23 03:12:955 INFO  HomePage :64 - Click on Show All Desktops [[ChromeDriver: chrome on mac (dd5b9d489122115a873d1baccb5e0279)] -> link text: Show AllDesktops]
+2023-12-23 03:12:444 INFO  HomePage :54 - Mouse hover on “Laptops & Notebooks” and click [[ChromeDriver: chrome on mac (5d60995e575a145b9eb71da5cf2a7394)] -> xpath: //ul[@class='nav navbar-nav']/li[2]/a]
+2023-12-23 03:12:748 INFO  HomePage :69 - Click on Show All LaptopAndNotebooks [[ChromeDriver: chrome on mac (5d60995e575a145b9eb71da5cf2a7394)] -> link text: Show AllLaptops & Notebooks]
+2023-12-23 03:12:405 INFO  HomePage :59 -  Mouse hover on “Components” and click [[ChromeDriver: chrome on mac (fb271598bed453a0c09354eb56c77753)] -> xpath: //ul[@class='nav navbar-nav']/li[3]/a]
+2023-12-23 03:12:787 INFO  HomePage :74 - Click on Show All ShowAllComponents [[ChromeDriver: chrome on mac (fb271598bed453a0c09354eb56c77753)] -> link text: Show AllComponents]
+2023-12-23 03:12:105 INFO  LoginPage :29 - Clicking on login link :
+2023-12-23 03:12:170 INFO  LoginPage :39 - Clicking on Register from Menu :
+2023-12-23 03:12:533 INFO  LoginPage :55 - Clicking on Register from Menu :
+2023-12-23 03:12:867 INFO  LoginPage :55 - Clicking on Register from Menu :
+2023-12-23 04:12:706 INFO  LoginPage :55 - Clicking on Register from Menu :
+2023-12-23 04:12:125 INFO  LoginPage :55 - Clicking on Register from Menu :
+2023-12-23 04:12:314 INFO  LoginPage :55 - Clicking on Register from Menu :
+2023-12-23 04:12:935 INFO  LoginPage :55 - Clicking on Register from Menu :
+2023-12-23 04:12:784 INFO  LoginPage :55 - Clicking on Register from Menu :
+2023-12-23 04:12:524 INFO  LoginPage :55 - Clicking on Register from Menu :
+2023-12-23 17:12:175 INFO  LoginPage :67 - Clicking on Register from Menu :
+2023-12-23 18:12:924 INFO  LoginPage :67 - Clicking on Register from Menu :
+2023-12-23 18:12:486 INFO  LoginPage :88 - Clicking on PrivacyPolicy Button :
+2023-12-23 18:12:130 INFO  LoginPage :67 - Clicking on Register from Menu :
+2023-12-23 18:12:585 INFO  LoginPage :88 - Clicking on PrivacyPolicy Button :
+2023-12-23 18:12:771 INFO  LoginPage :92 - Clicking on Continue Button :
+2023-12-23 18:12:901 INFO  LoginPage :67 - Clicking on Register from Menu :
+2023-12-23 18:12:310 INFO  LoginPage :88 - Clicking on PrivacyPolicy Button :
+2023-12-23 18:12:510 INFO  LoginPage :92 - Clicking on Continue Button :
+2023-12-23 18:12:500 INFO  LoginPage :67 - Clicking on Register from Menu :
+2023-12-23 18:12:514 INFO  LoginPage :67 - Clicking on Register from Menu :
+2023-12-23 18:12:325 INFO  LoginPage :88 - Clicking on PrivacyPolicy Button :
+2023-12-23 18:12:514 INFO  LoginPage :92 - Clicking on Continue Button :
+2023-12-23 18:12:598 INFO  LoginPage :96 - Registered Successfully:
+2023-12-23 18:12:201 INFO  HomePage :49 - Mouse hover on “Desktops” and click [[ChromeDriver: chrome on mac (6064022ce406a6c2710bb2bded0566c0)] -> xpath: //ul[@class='nav navbar-nav']/li[1]/a]
+2023-12-23 18:12:252 INFO  HomePage :64 - Click on Show All Desktops [[ChromeDriver: chrome on mac (6064022ce406a6c2710bb2bded0566c0)] -> link text: Show AllDesktops]
+2023-12-23 18:12:882 INFO  HomePage :54 - Mouse hover on “Laptops & Notebooks” and click [[ChromeDriver: chrome on mac (2d8164470b89e256be7d6e96ca8bd081)] -> xpath: //ul[@class='nav navbar-nav']/li[2]/a]
+2023-12-23 18:12:559 INFO  HomePage :69 - Click on Show All LaptopAndNotebooks [[ChromeDriver: chrome on mac (2d8164470b89e256be7d6e96ca8bd081)] -> link text: Show AllLaptops & Notebooks]
+2023-12-23 18:12:987 INFO  HomePage :59 -  Mouse hover on “Components” and click [[ChromeDriver: chrome on mac (681270e8412806bd91661ce10f8cba5b)] -> xpath: //ul[@class='nav navbar-nav']/li[3]/a]
+2023-12-23 18:12:832 INFO  HomePage :74 - Click on Show All ShowAllComponents [[ChromeDriver: chrome on mac (681270e8412806bd91661ce10f8cba5b)] -> link text: Show AllComponents]
