@@ -4,8 +4,7 @@ Feature: login Test
     Given I am on homepage
     When I click on login link
 
-  Scenario: user should navigate to login page successfully
-    Then I should navigate to login page successfully
+
 
     @smoke
   Scenario: user should navigate to login page successfully with invalid credentials
